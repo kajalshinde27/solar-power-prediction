@@ -1,0 +1,21 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local files
+.env
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
